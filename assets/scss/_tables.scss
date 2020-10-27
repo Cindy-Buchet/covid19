@@ -1,0 +1,102 @@
+.td-deaths{
+    color: red;
+}
+
+.td-recovered{
+    color: green;
+}
+
+.td-active{
+    color: blue;
+}
+
+.td-cases{
+    font-weight: bold;
+}
+
+.table-tops{
+
+    .td-right{
+        border-right: 3px solid black;
+    }
+    thead{
+        th{
+            border-left: none;
+        }
+        .th-center{
+            text-align: center;
+        }
+    }
+
+    tbody{
+        tr:hover{
+            background-color: brown !important;
+            cursor: pointer;
+        }
+        tr{
+            th, td{
+                word-wrap: break-word !important;
+            }
+            
+            th:nth-child(1){
+                width: 2%;
+            }
+            td:nth-child(2){
+                width: 16%;
+            }
+            td:nth-child(3){
+                width: 10%;
+            }
+            td:nth-child(4){
+                width: 10%;
+            }
+            td:nth-child(5){
+                width: 10%;
+            }
+            td:nth-child(6){
+                width: 10%;
+            }
+            td:nth-child(7){
+                width: 10%;
+            }
+            td:nth-child(8){
+                width: 10%;
+            }
+            td:nth-child(9){
+                width: 10%;
+            }
+        }
+
+        td{
+            text-align: right;
+        }
+        td, th{
+            border-right: 1px solid black;
+        }
+
+        .img-drapeau{
+            width: 33px;
+            height: 23px;
+            float: left;
+        }
+    }
+}
+ 
+
+.td-btn{
+    width: 85%;
+    text-align: left;
+    background-color: transparent !important;
+    border: none !important;
+}
+
+.espaces{
+    padding: 20px;
+}
+
+.table thead tr:nth-child(1) th{
+    border-bottom: none !important;
+}
+.table thead tr:nth-child(2) th{
+    border-top: none !important;
+}
