@@ -36,10 +36,10 @@ Affichage de tout les pays avec plusieurs informations. Possibilité de trier vi
 * nouveaux morts
 
 Classement cas totaux
-![](im4.png)
+![](im3.png)
 
 Classement nouveaux cas
-![](im3.png)
+![](im4.png)
 
 ## Pays
 Affichage des informations d'un pays.
