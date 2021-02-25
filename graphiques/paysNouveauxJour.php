@@ -55,7 +55,7 @@
         var series23 = chart2.series.push(new am4charts.LineSeries());
             series23.dataFields.valueY = "guerrisNouveau";
             series23.dataFields.categoryX = "dateNormal";
-            series23.name = 'nouveaux guerris';
+            series23.name = 'nouveaux guéris';
             series23.strokeWidth = 2;
             series23.bullets.push(new am4charts.CircleBullet());
             series23.tooltipText = "{name}: {valueY}";
