@@ -36,7 +36,7 @@ Affichage de tout les pays avec plusieurs informations. Possibilité de trier vi
 * nouveaux morts
 
 Classement cas totaux
-![](im2.png)
+![](im4.png)
 
 Classement nouveaux cas
 ![](im3.png)
@@ -48,4 +48,4 @@ Nous pouvons y retrouver:
 * un graphique des nouveaux cas, morts, guéris par jour depuis un mois
 * un graphique des cas totaux par jour depuis un mois
 
-![](im4.png)
+![](im2.png)
