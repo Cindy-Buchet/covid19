@@ -53,9 +53,9 @@
             series2.legendSettings.valueText = "{valueY}";
 
         var series3 = chart.series.push(new am4charts.LineSeries());
-            series3.dataFields.valueY = "guerris";
+            series3.dataFields.valueY = "guéris";
             series3.dataFields.categoryX = "dateNormal";
-            series3.name = 'guerris';
+            series3.name = 'guéris';
             series3.strokeWidth = 2;
             series3.bullets.push(new am4charts.CircleBullet());
             series3.tooltipText = "{name}: {valueY}";
