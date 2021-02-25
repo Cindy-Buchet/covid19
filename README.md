@@ -22,7 +22,7 @@ Nous pouvons  y retrouver:
 * les chiffres totaux
 * un graphique des totaux par jour depuis un mois
 * un graphique du top des pays avec le plus de cas par million d'habitants
-![](image1.png)
+![](im1.png)
 
 ## Top
 Affichage de tout les pays avec plusieurs informations. Possibilité de trier via plusieurs choix:
@@ -36,10 +36,10 @@ Affichage de tout les pays avec plusieurs informations. Possibilité de trier vi
 * nouveaux morts
 
 Classement cas totaux
-![](image2.png)
+![](im2.png)
 
 Classement nouveaux cas
-![](image3.png)
+![](im3.png)
 
 ## Pays
 Affichage des informations d'un pays.
@@ -48,4 +48,4 @@ Nous pouvons y retrouver:
 * un graphique des nouveaux cas, morts, guéris par jour depuis un mois
 * un graphique des cas totaux par jour depuis un mois
 
-![](image4.png)
+![](im4.png)
